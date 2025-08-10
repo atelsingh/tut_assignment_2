@@ -17,6 +17,6 @@ A Python script that uses a `for` loop to calculate the sum of all integers from
 ## 🚀 How to Run (Using PyCharm)
 
 1. Open the project in PyCharm.
-2. Locate `Task_1.py` or `Task_2.py` in the Project Explorer.
-3. Right-click the file and select Run 'Task_1' or Run 'Task_2'.
+2. Locate `2Task_1.py` or `2Task_2.py` in the Project Explorer.
+3. Right-click the file and select Run '2Task_1' or Run '2Task_2'.
 4. View the output in the Run console at the bottom.
