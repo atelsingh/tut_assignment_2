@@ -7,3 +7,4 @@ This repository contains two Python scripts:
 A simple Python script that takes an integer input from the user and determines whether it's even or odd using an `if-else` statement.
 ![Even or Odd Logic](https://github.com/atelsingh/tut_assignment_2/blob/main/2Task_1.1.png)
 
+![Even or Odd Logic](https://github.com/atelsingh/tut_assignment_2/blob/main/2Task_1.2.png)
