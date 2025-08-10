@@ -12,4 +12,11 @@ A simple Python script that takes an integer input from the user and determines 
 ## Task 2: Sum of Integers from 1 to 50
 
 A Python script that uses a `for` loop to calculate the sum of all integers from 1 to 50 and displays the result.
-![Sum of Integers]
+![Sum of Integers](https://github.com/atelsingh/tut_assignment_2/blob/main/2task_2.png)
+
+## 🚀 How to Run (Using PyCharm)
+
+1. Open the project in PyCharm.
+2. Locate `Task_1.py` or `Task_2.py` in the Project Explorer.
+3. Right-click the file and select Run 'Task_1' or Run 'Task_2'.
+4. View the output in the Run console at the bottom.
