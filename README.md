@@ -1,2 +1,3 @@
-# tut_assignment_2
-assignment 2
+## tut_assignment_2
+## Python Tasks Repository
+This repository contains two Python scripts:
